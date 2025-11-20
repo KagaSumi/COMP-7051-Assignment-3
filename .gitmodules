@@ -1,0 +1,6 @@
+[submodule "Assets/Project2"]
+	path = Assets/Project2
+	url = https://github.com/KagaSumi/COMP-7051-Assignment-2.git
+[submodule "Assets/Project1"]
+	path = Assets/Project1
+	url = https://github.com/KagaSumi/Pong.git
