@@ -1,6 +1,0 @@
-[submodule "Assignment 2"]
-	path = Assignment 2
-	url = https://github.com/KagaSumi/COMP-7051-Assignment-2.git
-[submodule "Assignment 1"]
-	path = Assignment 1
-	url = https://github.com/KagaSumi/Pong.git
